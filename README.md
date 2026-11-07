@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&pause=1200&color=D6487E&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;REST+APIs+with+Node.js+and+Express;Web+applications+with+Vue+and+React" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&pause=1200&color=D6487E&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;REST+APIs+with+Node.js+and+Express;Web+applications+with+Vue" alt="typing"/>
 
 <p>
   <b>Full-Stack Developer based in San Gil, Santander, Colombia</b><br/>
@@ -32,7 +32,7 @@
 <br/><br/>
 
 <h3>✿ &nbsp; Frameworks & Libraries &nbsp; ✿</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,vue,react,nextjs,tailwind,bootstrap,sass,vite&theme=light&perline=12" alt="frameworks"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,vue,nextjs,tailwind,bootstrap,sass,vite&theme=light&perline=12" alt="frameworks"/>
 
 <br/><br/>
 
@@ -42,7 +42,7 @@
 <br/><br/>
 
 <h3>✿ &nbsp; Tools &nbsp; ✿</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,nginx,vscode,postman,figma&theme=light&perline=12" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman&theme=light&perline=12" alt="tools"/>
 
 <br/><br/>
 
